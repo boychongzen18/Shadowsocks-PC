@@ -7,7 +7,9 @@
 ![be](https://raw.githubusercontent.com/boychongzen18/Shadowsocks-PC/master/Screenshot_2.jpg)
 
 LINK AKUN Shadowsocks : https://www.globalssh.net/account/shadowsocks
-
+# Tampilan Akun Shadowsocks di Windows
+![be](https://raw.githubusercontent.com/boychongzen18/Shadowsocks-PC/master/Screenshot_3.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/Shadowsocks-PC/master/Screenshot_4.jpg)
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
