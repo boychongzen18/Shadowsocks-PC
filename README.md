@@ -3,6 +3,9 @@
 
 # Tampilan Install framework4.6.2-installer di Windows 
 ![be](https://raw.githubusercontent.com/boychongzen18/Shadowsocks-PC/master/Screenshot_1.jpg)
+
+LINK DOWNLOAD framework4.6.2-installer : 
+
 # Tampilan Shadowsocks Status Connecting di Windows 
 ![be](https://raw.githubusercontent.com/boychongzen18/Shadowsocks-PC/master/Screenshot_2.jpg)
 
