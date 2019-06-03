@@ -1,0 +1,33 @@
+Server Jepang
+
+Server Host: jp1-ss.sshocean.net
+Server IP: 45.32.250.29
+Remote Port: 8388
+OBFS HTTP: 8139
+OBFS TLS: 1443
+Password: YjgwO
+Encrypt: AES-256-CFB
+
+link : https://sshocean.com/shadowsocks/japan/jp1-ss
+
+================================
+SHADOWSOCKS Premium Japan
+
+Account 48
+
+Server : jp01.ipss.xyz
+
+Method: AES-256-CFB
+
+Password: ws5ZGvZ2
+
+Speed: Up To 1Gbps
+
+OBFS TLS: 1443, 443
+
+
+Link : https://www.globalssh.net/account/shadowsocks/japan
+
+
+
+
