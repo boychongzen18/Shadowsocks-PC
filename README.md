@@ -6,6 +6,9 @@
 
 LINK DOWNLOAD framework4.6.2-installer : https://shortid.co/TvR3J
 
+# Tampilan Shadowsocks Setting/Edit Server 
+![be](https://raw.githubusercontent.com/boychongzen18/Shadowsocks-PC/master/ServerJepang.jpg)
+
 # Tampilan Shadowsocks Status Connecting di Windows 
 ![be](https://raw.githubusercontent.com/boychongzen18/Shadowsocks-PC/master/Screenshot_2.jpg)
 
